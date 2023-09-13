@@ -65,26 +65,24 @@ This simple yet elegant platform allows users to share and discover a treasure t
 
 Truong Phuc Nguyen - [@Trương Phúc Nguyên](https://facebook.com/ngui3n) - admin@truongphucnguyen.id.vn, fudnguyen@gmail.com
 
-Project Link: [https://github.com/quatabenho/cadilac](https://github.com/quatabenho/cadilac)
-
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/quatabenho/cadilac.svg?style=for-the-badge
+[contributors-url]: https://github.com/quatabenho/cadilac/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/quatabenho/cadilac.svg?style=for-the-badge
+[forks-url]: https://github.com/quatabenho/cadilac/network/members
+[stars-shield]: https://img.shields.io/github/stars/quatabenho/cadilac.svg?style=for-the-badge
+[stars-url]: https://github.com/quatabenho/cadilac/stargazers
+[issues-shield]: https://img.shields.io/github/issues/quatabenho/cadilac.svg?style=for-the-badge
+[issues-url]: https://github.com/quatabenho/cadilac/issues
+[license-shield]: https://img.shields.io/github/license/quatabenho/cadilac.svg?style=for-the-badge
+[license-url]: https://github.com/quatabenho/cadilac/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/quatabenho
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
