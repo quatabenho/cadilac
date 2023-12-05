@@ -24,7 +24,7 @@
     <br />
     <br />
     <br />
-    <a href="https://cadilac.truongphucnguyen.id.vm">View Demo</a>
+    <a href="https://cadilac.truongphucnguyen.id.vn">View Demo</a>
     ·
     <a href="https://github.com/quatabenho/cadilac/issues">Report Bug</a>
     ·
